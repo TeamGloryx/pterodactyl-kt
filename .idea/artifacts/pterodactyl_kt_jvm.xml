@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pterodactyl-kt-jvm">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="pterodactyl-kt-jvm.jar">
+      <element id="module-output" name="pterodactyl-kt.jvmMain" />
+    </root>
+  </artifact>
+</component>

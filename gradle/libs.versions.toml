@@ -1,0 +1,11 @@
+[versions]
+cat = "0.0.1.10-SNAPSHOT"
+ktor = "2.2.3"
+
+[libraries]
+ratelimit = { module = "catx.ktor-magic:ratelimit", version.ref = "cat" }
+
+[bundles]
+
+
+[plugins]
